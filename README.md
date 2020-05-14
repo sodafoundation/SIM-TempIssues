@@ -1,5 +1,6 @@
 # SODA Infrastructure Manager
-## This project is under initiation. The initial prototo development / base code at https://github.com/katurii/dolphin/. This is in the process of migrating to https://github.com/sodafoundation. We expect this to complete by end of May 2020
+## This project is under initiation. 
+The initial prototo development / base code at https://github.com/katurii/dolphin/. This is in the process of migrating to https://github.com/sodafoundation. We expect this to complete by end of May 2020
 
 
 //FIXME : Need to fix the below report tabs after creating the CI or the project
