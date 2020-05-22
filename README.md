@@ -55,7 +55,7 @@ Checkout [https://github.com/sodafoundation/sim/issues](https://github.com/sodaf
 
 ## Project Roadmap
 
-We want to build a unified intellient and scalable infrastructure management framework for resource management (config, add, remove, update), alert management and performance metrics management.
+We want to build a unified intelligent and scalable infrastructure management framework for resource management (config, add, remove, update), alert management and performance metrics management.
   
 [https://docs.sodafoundation.io](https://docs.sodafoundation.io/)
 
