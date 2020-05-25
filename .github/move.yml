@@ -16,7 +16,7 @@ mentionAuthors: true
 keepContentMentions: true
 
 # Move labels that also exist on the target repository
-moveLabels: true
+moveLabels: false
 
 # Set custom aliases for targets
 # aliases:
