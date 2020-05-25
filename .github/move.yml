@@ -1,7 +1,7 @@
 # Configuration for Move Issues - https://github.com/dessant/move-issues
 
 # Delete the command comment when it contains no other content
-deleteCommand: false
+deleteCommand: true
 
 # Close the source issue after moving
 closeSourceIssue: false
@@ -16,7 +16,7 @@ mentionAuthors: true
 keepContentMentions: true
 
 # Move labels that also exist on the target repository
-moveLabels: false
+moveLabels: true
 
 # Set custom aliases for targets
 # aliases:
